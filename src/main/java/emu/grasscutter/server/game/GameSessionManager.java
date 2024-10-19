@@ -6,7 +6,7 @@ import io.netty.buffer.*;
 import io.netty.channel.DefaultEventLoop;
 import java.net.InetSocketAddress;
 import java.util.concurrent.ConcurrentHashMap;
-import kcp.highway.*;
+import io.jpower.kcp.netty.*;
 import lombok.Getter;
 
 public class GameSessionManager {
