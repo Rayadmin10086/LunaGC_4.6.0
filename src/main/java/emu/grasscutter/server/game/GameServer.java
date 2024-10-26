@@ -47,7 +47,7 @@ import java.net.*;
 import java.time.*;
 import java.util.*;
 import java.util.concurrent.*;
-import io.jpower.kcp.netty.*;
+import kcp.highway.*;
 import lombok.*;
 import org.jetbrains.annotations.*;
 
